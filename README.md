@@ -1,6 +1,4 @@
 # bl4sv
-## Creando un sitio en donde postear noticias
-
 ## Jonathan Mendoza
 
 ## Creando una pagina para repodrucir peliculas
